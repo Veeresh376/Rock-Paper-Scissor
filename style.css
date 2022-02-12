@@ -1,0 +1,30 @@
+.selection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.results{
+    margin-left: 2%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: rgb(238, 231, 231);
+}
+
+.Container{
+    margin-top: 15%;
+   
+}
+.btn{
+    padding: 10px;
+    font-size: xxx-large;
+    background: none;
+    border: none;
+}
+#results,#yourSelection,#computerSeletion{
+    padding: 5px;
+    font-size: large;
+    font-weight: 200;
+}
